@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/git-salmanshaikh/git-salmanshaikh/blob/main/Black%20Technology%20LinkedIn%20Banner.png)](https://git-junaidattar.github.io/level-1webdev/)
+[![MasterHead](![Black_Modern_Profile](https://github.com/GIT-JUNAIDATTAR/git-junaidattar/assets/153606188/6d90f215-c349-4d64-a3ee-c1191a84fc4e)
+)](https://git-junaidattar.github.io/level-1webdev/)
 <h1 align="center">Hi 👋, I'm Junaid Attar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
