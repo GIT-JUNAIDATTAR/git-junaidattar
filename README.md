@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@JunaidAttar313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_98k" height="30" width="40" /></a>
 <a href="https://instagram.com/aj313____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_98k" height="30" width="40" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sam_98k" height="30" width="40" /></a>
+<a href="https://discord.gg/junaid313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sam_98k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
