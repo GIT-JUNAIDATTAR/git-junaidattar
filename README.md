@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Junaid Attar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+  <img alt="Coding GIF" width="300" height="auto" src="git-junaidattar/coding.gif"/>
 
 
 - 🔭 I’m currently working on [FrontendPractice challenge]((https://github.com/git-salmanshaikh/Pulse-pricingPage))
