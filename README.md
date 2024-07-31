@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Junaid Attar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Data+Science" alt="Typing SVG" />
+
 
 - 🔭 I’m currently working on [FrontendPractice challenge]((https://github.com/git-salmanshaikh/Pulse-pricingPage))
 
