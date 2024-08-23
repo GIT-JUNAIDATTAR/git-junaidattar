@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Development**
 
-- 📫 Reach me at - **junnaidattar313@gmail.com**
+- 📫 Reach me at - **junaidattar.official@gmail.com**
 
 - ⚡ Hobby - **Angling🎣**
 
